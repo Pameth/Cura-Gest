@@ -1,0 +1,5 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Personnel		TAR	3162	nouvelle taille enregistrement : 3162
+Personnel	IDService	RUB+		IDService est une nouvelle clé
+Service		NFI		nouveau fichier
+Contrainte_Personnel_Service		NWL	Service (IDService) et Personnel (IDService)	Nouvelle liaison entre les fichiers Service (IDService) et Personnel (IDService)

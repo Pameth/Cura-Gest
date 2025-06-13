@@ -1,0 +1,7 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Personnel	IDTypeProfil	RUB+		IDTypeProfil est une nouvelle clé
+Personnel	IDTypeProfil	RUB-		la rubrique IDTypeProfil est supprimée
+TypeProfil		TAR	518	nouvelle taille enregistrement : 518
+TypeProfil	IDPersonnel	RUB-		la rubrique IDPersonnel est supprimée
+Contrainte_Personnel_TypeProfil		NWL	TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)	Nouvelle liaison entre les fichiers TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)
+Contrainte_TypeProfil_Personnel		DEL	TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)	Liaison supprimée entre les fichiers TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)

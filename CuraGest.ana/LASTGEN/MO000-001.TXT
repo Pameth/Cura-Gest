@@ -1,0 +1,21 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Patient		NFI		nouveau fichier
+Medecins		NFI		nouveau fichier
+PlanningMedecin		NFI		nouveau fichier
+Rendez_vous		NFI		nouveau fichier
+Consultation		NFI		nouveau fichier
+Prescription		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Personnel		NFI		nouveau fichier
+DossierPatient		NFI		nouveau fichier
+Analyse		NFI		nouveau fichier
+Chambre		NFI		nouveau fichier
+Hospitalisation		NFI		nouveau fichier
+Contrainte_Patient_Rendez_vous		NWL	Patient (IDPatient) et Rendez_vous (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et Rendez_vous (IDPatient)
+Contrainte_Medecins_Rendez_vous		NWL	Medecins (IDMedecin) et Rendez_vous (IDMedecin)	Nouvelle liaison entre les fichiers Medecins (IDMedecin) et Rendez_vous (IDMedecin)
+Contrainte_Medecins_PlanningMedecin		NWL	Medecins (IDMedecin) et PlanningMedecin (IDMedecin)	Nouvelle liaison entre les fichiers Medecins (IDMedecin) et PlanningMedecin (IDMedecin)
+Contrainte_Consultation_Rendez_vous		NWL	Consultation (IDConsultation) et Rendez_vous (IDConsultation)	Nouvelle liaison entre les fichiers Consultation (IDConsultation) et Rendez_vous (IDConsultation)
+Contrainte_Consultation_Prescription		NWL	Consultation (IDConsultation) et Prescription (IDConsultation)	Nouvelle liaison entre les fichiers Consultation (IDConsultation) et Prescription (IDConsultation)
+Contrainte_Patient_Facture		NWL	Patient (IDPatient) et Facture (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et Facture (IDPatient)
+Contrainte_Analyse_Consultation		NWL	Analyse (IDAnalyse) et Consultation (IDAnalyse)	Nouvelle liaison entre les fichiers Analyse (IDAnalyse) et Consultation (IDAnalyse)
+MaConnexion1		CNX+		

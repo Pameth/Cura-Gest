@@ -1,0 +1,24 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Patient		TAR	2685	nouvelle taille enregistrement : 2685
+Patient	AntecedentsMedicaux	RUB-		la rubrique AntecedentsMedicaux est supprimée
+Medecins		TAR	2284	nouvelle taille enregistrement : 2284
+Medecins	Photo	RUB+		Photo est une nouvelle rubrique
+Consultation		TAR	14063	nouvelle taille enregistrement : 14063
+Consultation	Observation	RUB+		Observation est une nouvelle rubrique
+Consultation	Antecedents_Medicaux	RUB+		Antecedents_Medicaux est une nouvelle rubrique
+Consultation	AntecedentsChirurgicaux	RUB+		AntecedentsChirurgicaux est une nouvelle rubrique
+Consultation	AntecedentsFamilliaux	RUB+		AntecedentsFamilliaux est une nouvelle rubrique
+Consultation	AutresAntecedents	RUB+		AutresAntecedents est une nouvelle rubrique
+Consultation	Montant	RUB+		Montant est une nouvelle rubrique
+Consultation	IDMotifConsultation	RUB+		IDMotifConsultation est une nouvelle clé
+Personnel		TAR	3153	nouvelle taille enregistrement : 3153
+Personnel	MotDePasse	TAI-	450	la rubrique MotDePasse a comme nouvelle taille 51 au lieu de 501
+Personnel	Photo	RUB+		Photo est une nouvelle rubrique
+Personnel	Admin	RUB+		Admin est une nouvelle rubrique
+Personnel	SuperAdmin	RUB+		SuperAdmin est une nouvelle rubrique
+Personnel	IDTypeProfil	RUB+		IDTypeProfil est une nouvelle clé
+TypeProfil		NFI		nouveau fichier
+MotifConsultation		NFI		nouveau fichier
+AntecedentsPatient		NFI		nouveau fichier
+Contrainte_TypeProfil_Personnel		NWL	TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)	Nouvelle liaison entre les fichiers TypeProfil (IDTypeProfil) et Personnel (IDTypeProfil)
+Contrainte_Consultation_MotifConsultation		NWL	MotifConsultation (IDMotifConsultation) et Consultation (IDMotifConsultation)	Nouvelle liaison entre les fichiers MotifConsultation (IDMotifConsultation) et Consultation (IDMotifConsultation)

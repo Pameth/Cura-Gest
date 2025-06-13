@@ -1,0 +1,17 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Patient		FCNX+	MaConnexion2	
+Medecins		FCNX+	MaConnexion2	
+PlanningMedecin		FCNX+	MaConnexion2	
+Rendez_vous		FCNX+	MaConnexion2	
+Consultation		FCNX+	MaConnexion2	
+Prescription		FCNX+	MaConnexion2	
+Facture		FCNX+	MaConnexion2	
+Personnel		FCNX+	MaConnexion2	
+DossierPatient		FCNX+	MaConnexion2	
+Analyse		FCNX+	MaConnexion2	
+Chambre		FCNX+	MaConnexion2	
+Hospitalisation		FCNX+	MaConnexion2	
+TypeProfil		FCNX+	MaConnexion2	
+MotifConsultation		FCNX+	MaConnexion2	
+AntecedentsPatient		FCNX+	MaConnexion2	
+MaConnexion2		CNX+		

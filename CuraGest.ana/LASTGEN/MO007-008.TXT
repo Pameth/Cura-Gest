@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Patient		TAR	2736	nouvelle taille enregistrement : 2736
+Patient	Annee	RUB+		Annee est une nouvelle rubrique
+Annee		NFI		nouveau fichier

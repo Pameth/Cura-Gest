@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Patient		TAR	3237	nouvelle taille enregistrement : 3237
+Patient	NomComplet	RUB+		NomComplet est une nouvelle rubrique
+Personnel		TAR	3663	nouvelle taille enregistrement : 3663
+Personnel	NomComplet	TAI+	450	la rubrique NomComplet a comme nouvelle taille 501 au lieu de 51
