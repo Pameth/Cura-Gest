@@ -2,7 +2,7 @@
 Ce projet(dévoloppé avec WINDEV) visera à assurer une gestion efficace du secteur médical dans son ensemble, en intégrant tous les aspects, depuis la gestion du personnel jusqu'à celle des patients et de leurs paiements.
 Cura'Gest aura pour but de gerer :
 - Gestion des dossiers : Facilite la création, le suivi et la gestion des dossiers des patients.
-- Planification et agenda : Permet la gestion des rendez-vous, réduisant ainsi les conflits d'horaire.
+- Planification et agenda : Permet la gestion des rendez-vous (patients et Medecins) réduisant ainsi les conflits d'horaire.
 - Facturation et comptabilité : Automatiser le processus de facturation, le suivi des paiements et la gestion des comptes, contribuant à une meilleure gestion financière.
 - Communication interne : Favorise la communication entre les membres de l'équipe grâce à des fonctionnalités de messagerie intégrées
 - Gestion des tâches : Permet d'assigner et de suivre des tâches spécifiques au personnel, améliorant ainsi la productivité et la coordination au sein de l'équipe.
