@@ -10,5 +10,5 @@ Cura'Gest aura pour but de gerer :
 - Conformité réglementaire : Aide à se conformer aux exigences légales et réglementaires en matière de gestion des données et de protection de la vie privée, notamment en assurant la sécurité des informations sensibles (avec des restrictions selon les besoins de l'etablissement)
 - Accès à distance : De nombreux logiciels offrent des solutions basées sur le cloud, permettant au personnel d'accéder aux informations et aux outils de travail même à distance.
 
-**PS:** Logiciel en cours de développement ; ce qui précède n'est qu'un extrait du cahier des charges.
+**PS:** Logiciel en cours de développement ; ci-dessus n'est qu'un extrait du cahier de charges.
 
